@@ -1,16 +1,16 @@
-# cashir
+# Cashir
 
-A new Flutter project.
+<p>
+    <img src="https://github.com/ibrajix/giga-assignment/assets/39574228/c074b823-bd56-4ef5-a0c9-4af8fa033dab" width="200px" hspace="10"/>
+    <img src="https://github.com/ibrajix/giga-assignment/assets/39574228/5c18adfb-92e2-4c82-bb28-cb5e757ad709" width="200px" hspace="10"/>
+    <img src="https://github.com/ibrajix/giga-assignment/assets/39574228/c2b2c9c0-b74e-4acc-8a14-059b711c7b87" width="200px" hspace="10"/>
+    <img src="https://github.com/ibrajix/giga-assignment/assets/39574228/04f7803b-39a9-4948-b7f3-5f55e13c7374" width="200px" hspace="10"/>
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# STACK
+- Flutter (Dart)
+- Riverpod
+- HTTP
+- Go Router
+- Freezed
+  
